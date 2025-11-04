@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elay</h1>
 <h3 align="center">Software developer | Networking | Cybersecurity enthusiast</h3>
 
-- Working on my senior project – currently confidential
+- Working on my senior project – Remote Firewall
 
 - Feel free to contact me via email: **elay5040@gmail.com**
 
